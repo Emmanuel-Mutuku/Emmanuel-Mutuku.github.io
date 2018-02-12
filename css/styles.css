@@ -2,7 +2,11 @@
   font-style: italic;
 }
 .author {
-  color: grey;
+  color: white;
 }
 body {
-        background-color: white;
+  color: white;
+}
+.p {
+  font-size: 60%
+}
